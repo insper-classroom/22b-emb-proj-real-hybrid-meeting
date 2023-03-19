@@ -31,6 +31,7 @@ Trabalho em uma empresa remote-first. Temos escritório em Bogotá e em São Pau
 É comum ter reuniões em que parte do time está no escritório e outra parte remota participando através do Google Meet.
 
 **A experiência sempre é ruim.**
+
 O time presencial, para evitar microfonia, acessa a reunião através de um único computador e espelha a tela na televisão.
 Por ter apenas um microfone, as pessoas que estão mais distantes do computador nunca são ouvidas por quem participa remotamente.
 Outro problema, é que apenas o dono do computador controla o mouse. Durante apresentações via espelhamento de tela o controle do mouse é crucial.
@@ -46,7 +47,7 @@ Por fim, vai possuir um microfone embutido, permitindo quem está apresentando s
 - Realizar cliques com o mouse.
 - Capturar audio.
 
-## In/OUT (3 pts)
+### In/OUT (3 pts)
 
 - Ligar/desligar o compartilhamento de audio: Mini illuminated pushbutton.
 - Controlar o cursor do mouse: Joypad.
