@@ -36,7 +36,7 @@ O time presencial, para evitar microfonia, acessa a reunião através de um úni
 Por ter apenas um microfone, as pessoas que estão mais distantes do computador nunca são ouvidas por quem participa remotamente.
 Outro problema, é que apenas o dono do computador controla o mouse. Durante apresentações via espelhamento de tela o controle do mouse é crucial.
 
-Vou construir um controle que permite controlar o cursos do computador e realizar "cliques no botão erquerdo do mouse".
+Vou construir um controle que permite deslocar o cursos do computador e realizar "cliques no botão erquerdo do mouse".
 Por fim, vai possuir um microfone embutido, permitindo quem está apresentando ser ouvido por todos os remotos.
 
 ### Comandos/ Feedbacks (2 pts)
