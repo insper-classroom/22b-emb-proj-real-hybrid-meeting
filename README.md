@@ -27,7 +27,6 @@ Google Meet
 
 ### Jornada do usuário (3 pts)
 
-<!--
 Trabalho em uma empresa remote-first. Temos escritório em Bogotá e em São Paulo, porém a maior parte do time opta pelo trabalho remoto.
 É comum ter reuniões em que parte do time está no escritório e outra parte remota participando através do Google Meet.
 
@@ -38,31 +37,22 @@ Outro problema, é que apenas o dono do computador controla o mouse. Durante apr
 
 Vou construir um controle que permite controlar o cursos do computador e realizar "cliques no botão erquerdo do mouse".
 Por fim, vai possuir um microfone embutido, permitindo quem está apresentando ser ouvido por todos os remotos.
--->
 
 ### Comandos/ Feedbacks (2 pts)
 
-<!--
 [Referência de atalhos do Google Meet](https://support.google.com/a/users/answer/9896256?hl=en)
 - Ligar/desligar o compartilhamento de audio.
 - Controlar o cursor do mouse.
 - Realizar cliques com o mouse.
 - Capturar audio.
--->
 
 ## In/OUT (3 pts)
-
-<!--
 
 - Ligar/desligar o compartilhamento de audio: Mini illuminated pushbutton.
 - Controlar o cursor do mouse: Joypad.
 - Realizar cliques com o mouse: Joypad (botão de pressionado).
 - Capturar audio: Microfone.
 
--->
-
 ### Design (2 pts)
 
-<!--
 Pensei em fazer no formato de um microfone de mão. O pushbutton já é comum em microfones, apenas adicionaria o joypad.
--->
